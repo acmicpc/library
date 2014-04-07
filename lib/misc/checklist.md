@@ -1,12 +1,12 @@
 RUNTIME ERROR
 -------------
 * array index out of range
-    ** not enough size
-    ** wrong index calculation
+    * not enough size
+    * wrong index calculation
 * stack overflow
 * divide by 0
-* operation on wrong iterater
-    ** set.erase(set.find(x)) when x doesn't exist
+* operation on wrong iterator
+    * set.erase(set.find(x)) when x doesn't exist
 
 WRONG ANSWER
 ------------
