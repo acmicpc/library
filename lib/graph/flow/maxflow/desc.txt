@@ -1,7 +1,0 @@
-USAGE
------
-* set `MAXNODE` to maximum total numbers of node in graph, and `MAXE` to be maximum number of edges(don't forget to multiply it by 2 for reverse edges).
-* set `ss` to be the source and `st` to be the sink. `st` should have the maximum number among all the nodes.
-* set init value for `totalEdge` and `pnt[]` before add edges.
-* use `addBi()` to add edge.
-* call `maxflow()` to get the max flow.
