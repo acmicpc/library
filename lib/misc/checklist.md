@@ -4,8 +4,8 @@ RUNTIME ERROR
     * not enough size
     * wrong index calculation
 * stack overflow
-* divide by 0
-* operation on wrong iterator
+* divided by 0
+* operation on invalid iterator
     * set.erase(set.find(x)) when x doesn't exist
 
 WRONG ANSWER
